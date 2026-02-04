@@ -1,4 +1,5 @@
-# Hi there, I'm demonorrathertiger 👋
+<div align="center">
+  # Hi there, I'm demonorrathertiger 👋
 
 ## ⚡ About Me
 - 🔭 I’m currently learning to use GitHub.
@@ -14,3 +15,4 @@
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=demonorrathertiger&show_icons=true&theme=radical)
+</div>
