@@ -13,7 +13,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=demonorrathertiger&show_icons=true&theme=radical)
 
 ## My favorite song
-[<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/track/https://open.spotify.com/intl-ja/track/5QS01sq07pThdktoNUxXRZ?si=491bd68d3bba4fbe)
+[<img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/intl-ja/track/4n7nwDqrdx3qmJvEACOMrN?si=46286918ee344706)
 
 ## 🌐 Socials
 <a href="https://twitter.com/d4bu2222222222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
